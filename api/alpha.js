@@ -1,4 +1,3 @@
-zxczxcxzc
 
 const start = async() => {
     try {
