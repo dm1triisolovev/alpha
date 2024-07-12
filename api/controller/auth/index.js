@@ -8,4 +8,4 @@ class c_auth_controller {
     }
 }
 
-module.exports = c_auth_controller();
+module.exports = new c_auth_controller();
